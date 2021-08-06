@@ -1,0 +1,151 @@
+.logoheading{
+    font-style: italic;
+    font-weight: bold;
+
+}
+.head{
+    display: flex;
+}
+
+.head h1{
+    color: rgb(89, 158, 248);
+    font-weight: 900;
+    font-size: 50px;
+    font-family: cursive;
+    margin-top: 0%;
+
+}
+
+.head span i{
+    color: rgb(89, 158, 248);
+    margin-top: 12%;
+    border-radius: 50%;
+}
+
+.head2{
+    width: 98%;
+    display: flex;
+    margin-top: 0px;
+    background:linear-gradient(90deg,rgb(2, 94, 233) 24.5%,skyblue 24.5%);
+    color: white;
+}
+.booknow{
+    margin-left: 8px;
+}
+
+
+
+.head3{
+    margin-top: 0.5%;
+    display: flex;
+}
+
+#head3_p{
+    margin-top: 0px;
+}
+
+.equality{
+    margin-top: 0px;
+}
+
+.head3 a{
+    color: rgb(37, 205, 247);
+}
+
+.head3 p{
+    color: rgb(43, 189, 226);
+}
+
+.head4_h{
+    color: rgb(107, 179, 238);
+}
+
+.head4_p{
+    width: 97%;
+    margin-top: 0px;
+    padding: 0px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.head5{
+    height: auto;
+    width: 57%;
+    border: 2px solid rgb(43, 159, 226);
+}
+
+.head5_a{
+    display: flex;
+    width: 100%;
+    height: auto;
+    background-color: rgb(43, 159, 226);
+    padding-top: 3px;
+}
+
+.head5_a_nav{
+    background-color: rgb(37, 3, 185);
+    padding: 3px;
+    color: white;
+}
+
+.head5_a_nav1{
+    background-color: white;
+    padding: 3px;
+    color: rgb(43, 198, 226);
+}
+
+.head5_b_p{
+    color: rgb(43, 61, 226);
+    margin-left: 10px;
+}
+
+.head5_b_q{
+    display: flex;
+}
+
+.saving{
+    color: rgb(46, 43, 226);
+    margin-left: 20px;
+    padding: 0px;
+}
+
+.saving_p{
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+
+.saving_b{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 35px;
+}
+
+.select{
+    display: flex;
+}
+
+.label_{
+    margin-left: 10px;
+}
+
+.last_div{
+    width: 100%;
+    height: 200px;
+    background-color: cyan;
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.last_div div{
+    margin-left: 35%;
+    /* margin-top: 30px; */
+}
+
+.last_div_a{
+    margin-top: 20px;
+
+}
+
+.last_div_c{
+    margin-top: 40px;
+    color: blueviolet;
+}
